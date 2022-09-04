@@ -7,3 +7,9 @@
 ### Here you will get all required files
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/96106995/188305783-f8a439b7-8af4-4a15-8f5a-70894d7e21ba.png)
+
+# ***'Sales - Revenue'*** Dashboard view
+![Sales Insights - Revenue](https://user-images.githubusercontent.com/96106995/188306312-55e291ad-0aa7-4a05-a4df-df1b0616dd65.png)
+
+# ***'Sales - Profit'*** Dashboard view
+![Sales Insights - Profit](https://user-images.githubusercontent.com/96106995/188306337-82943bc9-3643-4b8a-9de4-9b2a349fbb95.png)
